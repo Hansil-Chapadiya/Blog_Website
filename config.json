@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql+pymysql://root:@localhost:3307/blog",
+        "prod_uri": "mysql+pymysql://root:@localhost:3307/blog",
+        "insta_uri": "https://www.instagram.com/hansil_14.08",
+        "fb_uri": "https://www.instagram.com/hansil_14.08",
+        "github_uri": "https://www.instagram.com/hansil_14.08",
+        "gmail_user":"chapadiyahansil@gmail.com",
+        "gmail_password" :"gaqfiuehutkvqejo",
+        "blog_name":"Hansil's Coding",
+        "no_of_post":2,
+        "admin_name":"Hansil",
+        "admin_password":"Hansil@123",
+        "upload_location":"D:\\New_folder"
+    }
+}
